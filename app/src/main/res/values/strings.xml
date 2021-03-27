@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List</string>
+    <string name="ListIdText">List ID: %1$d</string>
+    <string name="IdText">ID: %1$d</string>
+    <string name="ListNameText">Name: %1$s</string>
+    <string name="RefreshText">Swipe Down To Load Items</string>
+</resources>
