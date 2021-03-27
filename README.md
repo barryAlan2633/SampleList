@@ -8,6 +8,6 @@ MVVM,
 OKHTTP3,
 Coroutines, 
 Kotlin
-![165296436_938359096704376_5245118144983694325_n](https://user-images.githubusercontent.com/24596141/112737736-b00d6b80-8f2a-11eb-834c-a1da469fa9c5.png)
-![165117312_275299217473919_7510884881392675525_n](https://user-images.githubusercontent.com/24596141/112737737-b0a60200-8f2a-11eb-940c-e988e0f8764e.png)
-![165789747_248972160260862_3330812448268669294_n](https://user-images.githubusercontent.com/24596141/112737738-b1d72f00-8f2a-11eb-8871-ff7b29aeb70d.png)
+![Capture3](https://user-images.githubusercontent.com/24596141/112737773-f6fb6100-8f2a-11eb-8b2a-0bb393c53ef0.PNG)
+![Capture2](https://user-images.githubusercontent.com/24596141/112737774-f793f780-8f2a-11eb-8c84-dd8e7aba8553.PNG)
+![Capture1](https://user-images.githubusercontent.com/24596141/112737775-f793f780-8f2a-11eb-8831-0bff215a6e63.PNG)
